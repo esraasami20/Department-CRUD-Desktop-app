@@ -1,0 +1,15 @@
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\Lab3.exe.config
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\Lab3.exe
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\Lab3.pdb
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\EntityFramework.dll
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\EntityFramework.SqlServer.dll
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\EntityFramework.xml
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\bin\Debug\EntityFramework.SqlServer.xml
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.Form1.resources
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.exe
+E:\coullege stuff\ITI\M5\W20\LINQ\D3\Lab3\obj\Debug\Lab3.pdb
